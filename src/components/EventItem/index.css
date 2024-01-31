@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.listcontainer {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin-bottom: 10%;
+}
+.buttonimagecontainer {
+  background-color: transparent;
+  width: 100%;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  cursor: pointer;
+}
+.image {
+  width: 100%;
+  height: auto;
+}
+.name {
+  font-size: 20px;
+  color: aliceblue;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+.location {
+  font-size: 10px;
+  color: aliceblue;
+  margin-top: 0px;
+}
